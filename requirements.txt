@@ -1,0 +1,8 @@
+# Visionoscope Workbench
+
+lapx
+opencv-python
+Pillow
+py-cpuinfo
+streamlit
+ultralytics

@@ -1,0 +1,7 @@
+[global]
+developmentMode = false
+
+[server]
+port = 1701
+sslCertFile = '/etc/letsencrypt/live/visionoscope.org/fullchain.pem'
+sslKeyFile = '/etc/letsencrypt/live/visionoscope.org/privkey.pem'
